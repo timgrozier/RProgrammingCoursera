@@ -1,2 +1,2 @@
 # RProgrammingCoursera
-Amazing
+Github repository containing two functions.
